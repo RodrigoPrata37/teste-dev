@@ -1,0 +1,41 @@
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: rgb(184, 184, 208);
+    width: 30vw;
+    min-height: 30vh;
+    border: 1px solid black;
+    border-radius: 1em;
+    margin-top: 15%;
+    padding: 2em;
+    
+}
+
+.customidx{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.table-dark{
+    gap: 1em;
+}
+
+a{
+    background-color: rgb(214, 214, 223);
+}
+
+.acustom{
+    text-decoration: none;
+    border: 1px solid black;
+
+}
+
+form .form-control {
+    width: 100%; 
+}
+
