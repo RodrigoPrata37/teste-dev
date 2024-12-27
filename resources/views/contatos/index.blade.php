@@ -16,7 +16,7 @@
         </form>
     </div>
 
-    <!-- Tabela de contatos -->
+    <!-- Tabela de contatos 1-->
     <div class="table-responsive"> 
         <table class="table table-striped table-hover">
             <thead class="table-dark">
